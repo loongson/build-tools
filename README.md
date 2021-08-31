@@ -2,7 +2,7 @@
 
 Build tools for Loongson (Binary)
 
-- [loongarch64-clfs-20210812-cross-tools](https://github.com/loongson/build-tools/releases/latest/download/loongarch64-clfs-20210812-cross-tools.tar.xz): Cross compile tools on x86_64 host for LoongArch (Based on GCC-12).
+- [loongarch64-clfs-20210831-cross-tools](https://github.com/loongson/build-tools/releases/latest/download/loongarch64-clfs-20210831-cross-tools.tar.xz): Cross compile tools on x86_64 host for LoongArch (Based on GCC-12).
 
 - [archlinux-bootstrap-dev-2021.06.11-loongarch64.tar.gz](https://github.com/loongson/build-tools/releases/latest/download/archlinux-bootstrap-dev-2021.06.11-loongarch64.tar.gz): Archlinux bootstrap for LoongArch64.
 
