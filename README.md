@@ -2,6 +2,7 @@
 
 Build tools for Loongson (Binary).
 
+- CLFS for LoongArch64 7.3 cross toolchain: [loongarch64-clfs-7.3-cross-tools-gcc-glibc.tar.xz](https://github.com/loongson/build-tools/releases/download/2022.09.06/loongarch64-clfs-7.3-cross-tools-gcc-glibc.tar.xz).
 - CLFS for LoongArch64 6.3: [loongarch64-clfs-system-6.3.tar.bz2](https://github.com/loongson/build-tools/releases/download/2022.09.06/loongarch64-clfs-system-6.3.tar.bz2).  
 lightdm: [loongarch64-clfs-system-6.0-lightdm.tar.bz2](https://github.com/loongson/build-tools/releases/download/2022.09.06/loongarch64-clfs-system-6.0-lightdm.tar.bz2).  
 WM-LXDE: [loongarch64-clfs-system-6.1-WM-LXDE.tar.bz2](https://github.com/loongson/build-tools/releases/download/2022.09.06/loongarch64-clfs-system-6.1-WM-LXDE.tar.bz2).  
