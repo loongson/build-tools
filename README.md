@@ -2,7 +2,7 @@
 
 Build tools for Loongson (Binary).
 
-- LoongArch64 cross toolchain: [x86_64-cross-tools-loongarch64-binutils_2.43.1-gcc_14.2.0-glibc_2.40.tar.xz](https://github.com/loongson/build-tools/releases/download/2024.11.1/x86_64-cross-tools-loongarch64-binutils_2.43.1-gcc_14.2.0-glibc_2.40.tar.xz).
+- LoongArch64 cross toolchain(Linux): [x86_64-cross-tools-loongarch64-binutils_2.43.1-gcc_14.2.0-glibc_2.40.tar.xz](https://github.com/loongson/build-tools/releases/download/2024.11.1/x86_64-cross-tools-loongarch64-binutils_2.43.1-gcc_14.2.0-glibc_2.40.tar.xz).
 
     source code:
     
