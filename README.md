@@ -15,9 +15,9 @@ Build tools for Loongson (Binary).
         linux-header: https://mirrors.edge.kernel.org/pub/linux/kernel/v6.x/linux-6.15.tar.xz
                  
 Documentation: [CLFS for LoongArch64](https://github.com/sunhaiyong1978/CLFS-for-LoongArch/blob/main/CLFS_For_LoongArch64.md).
-- QEMU linux-user static binary: [qemu-loongarch64](https://github.com/loongson/build-tools/releases/download/2025.02.21/qemu-loongarch64).
+- QEMU linux-user static binary: [qemu-loongarch64](https://github.com/loongson/build-tools/releases/download/2025.06.06/qemu-loongarch64).
 
-    source code:  https://download.qemu.org/qemu-9.2.0.tar.xz
+    source code:  https://download.qemu.org/qemu-10.0.2.tar.xz
 
 - Fedora Remix: [Mate Desktop](http://mirrors.wsyu.edu.cn/fedora/linux/F42/rawhide/Everything/loongarch64/iso/livecd-fedora-live-mate_compiz-202504251611.iso)([md5](https://mirrors.wsyu.edu.cn/fedora/linux/F42/rawhide/Everything/loongarch64/iso/livecd-fedora-live-mate_compiz-202504251611.iso.md5sum))
 
