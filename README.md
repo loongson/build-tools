@@ -12,7 +12,7 @@ Build tools for Loongson (Binary).
                  
         gcc: https://ftp.gnu.org/gnu/gcc/gcc-15.1.0/gcc-15.1.0.tar.xz
                  
-        linux-header: https://mirrors.edge.kernel.org/pub/linux/kernel/v6.x/linux-6.15.tar.xz
+        linux-header: https://mirrors.edge.kernel.org/pub/linux/kernel/v6.x/linux-6.16.tar.xz
                  
 Documentation: [CLFS for LoongArch64](https://github.com/sunhaiyong1978/CLFS-for-LoongArch/blob/main/CLFS_For_LoongArch64.md).
 - QEMU linux-user static binary: [qemu-loongarch64](https://github.com/loongson/build-tools/releases/download/2025.06.06/qemu-loongarch64).
